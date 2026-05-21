@@ -19,7 +19,15 @@ It kinda felt like a game, connecting all of them together :)
 Anyways, here's the final 3D result!
 <img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/ba01d023-78cc-465c-b9bf-4c20b442bae3" />
 
-I'm debating on whether to make a case for it: I'll make one for it just in case.
+I'm debating on whether to make a case for it: I decided against it.
+
+## BOM (my version)
+0.01 uF Capacitors: [link](https://www.amazon.com/Cermant-Ceramic-Capacitor-Electronic-Components/dp/B09XV2CZJZ/ref=sr_1_3?sr=8-3)
+1 uF Capacitors (and many more capacitors): [link](https://www.amazon.com/200PCS-Electrolytic-Capacitor-Kit-Electronics/dp/B0FH1R7N94/ref=sr_1_4?sr=8-4)
+Connectors: [link](https://www.amazon.com/Glarks-Connector-Assortment-Stackable-Breakaway/dp/B07CWSXY7P)
+4017BE: [link](https://www.amazon.com/Texas-Instruments-CD4017BE-Counter-Decoded/dp/B00GAGD10Y)
+NE555N Clock: [link](https://www.amazon.com/ALLECIN-NE555-NE555P-Timer-NE555N/dp/B0CBKFMWDP)
+T93YA: [link](https://www.digikey.com/en/products/detail/vishay-sfernice/T93YA103KT20/1587711)
 
 ## End Result
 Final result from JCLPCB coming soon!
