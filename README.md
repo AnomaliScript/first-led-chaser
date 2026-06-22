@@ -28,6 +28,13 @@ Connectors: [link](https://www.amazon.com/Glarks-Connector-Assortment-Stackable-
 4017BE: [link](https://www.amazon.com/Texas-Instruments-CD4017BE-Counter-Decoded/dp/B00GAGD10Y)
 NE555N Clock: [link](https://www.amazon.com/ALLECIN-NE555-NE555P-Timer-NE555N/dp/B0CBKFMWDP)
 T93YA: [link](https://www.digikey.com/en/products/detail/vishay-sfernice/T93YA103KT20/1587711)
+In total, this project cost me about **$30** to make (yikes...)
 
 ## End Result
-Final result from JCLPCB coming soon!
+Fortunately, I got help from a friend when his dad agreed to lend me his solder and soldering iron.
+When I initially soldered the PCB, [the blinking was really fast](https://drive.google.com/file/d/1CZGWTpNvm0oBers0KX6bNRDRQLqv2583/view?usp=sharing), even when I set the potentiometer to its "highest resistance" mode, which is stupposed to slow down the blinking rate.
+After asking AI for help, I decided to replace the capacitor (which was originally 1uF) with a 10uF capacitor.
+<img width="779" height="732" alt="image" src="https://github.com/user-attachments/assets/439833a5-f19a-4fda-a4db-95cdbe036d77" />
+This solution worked, and after a few close burns, and the blinker works: a video of it blinking can be found [here](https://drive.google.com/file/d/13T7uWkx8QOqEzrhQr9J85-se3VObvKnz/view?usp=sharing) (the capacitor laying near the PCB was the 1uF capacitor that I removed).
+Despite the blinker being a bit finicky at times, I learned a lot from this experience, and I'm still proud of the result.
+<img width="2880" height="2160" alt="IMG_8237" src="https://github.com/user-attachments/assets/ba109837-4e09-4adf-ab22-0624610d925f" />
